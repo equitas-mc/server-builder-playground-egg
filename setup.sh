@@ -10,3 +10,4 @@ tar -xf Cuberite.tar.gz
 
 cp /mnt/server/server-builder-playground-egg/settings.ini .
 cp /mnt/server/server-builder-playground-egg/webadmin.ini .
+cp /mnt/server/server-builder-playground-egg/world/world.ini world/world.ini
